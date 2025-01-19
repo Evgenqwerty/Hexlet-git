@@ -1,1 +1,2 @@
 # Hexlet-git
+second string
