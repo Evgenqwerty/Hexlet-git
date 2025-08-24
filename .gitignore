@@ -1,4 +1,0 @@
-/vendor/
-.env
-/db/*.sqlite
-.idea/
